@@ -1,0 +1,14 @@
+C:\Users\инженер\Desktop\Семинар 4\Homework-sem.4-4\ДЗ1\bin\Debug\net7.0\ДЗ1.exe
+C:\Users\инженер\Desktop\Семинар 4\Homework-sem.4-4\ДЗ1\bin\Debug\net7.0\ДЗ1.deps.json
+C:\Users\инженер\Desktop\Семинар 4\Homework-sem.4-4\ДЗ1\bin\Debug\net7.0\ДЗ1.runtimeconfig.json
+C:\Users\инженер\Desktop\Семинар 4\Homework-sem.4-4\ДЗ1\bin\Debug\net7.0\ДЗ1.dll
+C:\Users\инженер\Desktop\Семинар 4\Homework-sem.4-4\ДЗ1\bin\Debug\net7.0\ДЗ1.pdb
+C:\Users\инженер\Desktop\Семинар 4\Homework-sem.4-4\ДЗ1\obj\Debug\net7.0\ДЗ1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\инженер\Desktop\Семинар 4\Homework-sem.4-4\ДЗ1\obj\Debug\net7.0\ДЗ1.AssemblyInfoInputs.cache
+C:\Users\инженер\Desktop\Семинар 4\Homework-sem.4-4\ДЗ1\obj\Debug\net7.0\ДЗ1.AssemblyInfo.cs
+C:\Users\инженер\Desktop\Семинар 4\Homework-sem.4-4\ДЗ1\obj\Debug\net7.0\ДЗ1.csproj.CoreCompileInputs.cache
+C:\Users\инженер\Desktop\Семинар 4\Homework-sem.4-4\ДЗ1\obj\Debug\net7.0\ДЗ1.dll
+C:\Users\инженер\Desktop\Семинар 4\Homework-sem.4-4\ДЗ1\obj\Debug\net7.0\refint\ДЗ1.dll
+C:\Users\инженер\Desktop\Семинар 4\Homework-sem.4-4\ДЗ1\obj\Debug\net7.0\ДЗ1.pdb
+C:\Users\инженер\Desktop\Семинар 4\Homework-sem.4-4\ДЗ1\obj\Debug\net7.0\ДЗ1.genruntimeconfig.cache
+C:\Users\инженер\Desktop\Семинар 4\Homework-sem.4-4\ДЗ1\obj\Debug\net7.0\ref\ДЗ1.dll
